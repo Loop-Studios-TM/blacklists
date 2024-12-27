@@ -1,5 +1,6 @@
 {
-    "blacklisted": {
-        "1": "Reason here pls do not put a dot after",
+    "groups": {
+        "123456": "Reason for blacklisting",
+        "654321": "Another reason"
     }
 }
