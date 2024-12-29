@@ -1,5 +1,7 @@
 {
-    "blacklisted": {
-        "1": "Reason here pls do not put a dot after"
-    }
+  "blacklisted": {
+    "1348033154": "Reason for blacklisting this user",
+    "9876543210": "Another reason for blacklisting",
+    "1111111111": "Violation of game rules"
+  }
 }
